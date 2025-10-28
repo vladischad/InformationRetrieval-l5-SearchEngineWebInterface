@@ -1,0 +1,157 @@
+What's New in Internet Explorer?
+
+Internet Explorer is not just a browser anymore. Now it enables you to integrate the Web with your desktop in numerous ways, and includes a set of programs that help you communicate better, including Outlook Express, Microsoft NetMeeting, Microsoft Chat, and FrontPage Express. For more information, see Internet Explorer Help.
+
+If you've used Windows before: answers to common questions
+
+To find out how Windows has changed, click one of the buttons below: How do I start programs? What happened to my program groups? What happened to File Manager? What happened to Control Panel?
+
+You can find your program groups by clicking the Start button, and then pointing to Programs. Your program groups appear as folders on the Programs menu. Point to the folder that contains the program you want and then click a program to open it.
+
+What is the significance of the end-user license agreement (EULA) for Microsoft products?
+
+Your use of Microsoft products is governed by the terms of the EULA, as well as by copyright law. The EULA is the contract regarding your use of the licensed product and it grants you a specific right to use the Microsoft software on your computer.
+
+What does the end-user license agreement (EULA) say?
+
+Provided you accept its terms, the EULA gives you permission to use the software, and grants you some additional rights. The EULA also imposes certain restrictions on your use of the software. The EULA includes the "Grant of License" section, which describes how you may use the software. Also included in the EULA are restrictions against reverse engineering, leasing, or renting the software, and other restrictions that apply to the particular software. In addition, the EULA describes the terms under which you may make a backup or archival copy of the software and details the limited warranty provided for the product.
+
+My Microsoft product came with a Certificate of Authenticity. Is that my end-user license agreement (EULA)?
+
+No, the Certificate of Authenticity is a security device that accompanies all Microsoft products distributed with a computer by an Original Equipment Manufacturer. The Certificate is used to assure the end user that the software programs accompanying the computer system are legally licensed Microsoft software. For instance if you purchased a computer system from a computer store and it came with MS DOS and Windows operating system software preinstalled on its hard drive, two separate Certificates of Authenticity should also be included inside the computer box. The Certificate of Authenticity contains anti-counterfeiting devices such as the hologram to prevent the production of counterfeit Microsoft products. If you suspect you may have pirated software, or have concerns about the legal ramifications of using such software, see the questions in this Help document concerning software piracy.
+
+What kind of licenses come with Microsoft server products?
+
+Microsoft server products include Windows NT Server, Microsoft SQL Server, SNA Server and Systems Management Server. There are two licenses that describe your right to use Microsoft Server Products: the Server License and the Client Access License.
+
+The Server License grants you: the right to install the Server Software on a computer acting as a network server; the right to install the Client Software included with the Server product on workstations connected to the Server; and limited rights to network administration. To actually access or utilize the services of the Server Software from a client workstation, however, you must acquire a separate Client Access License. In other words the Server License lets you set up the network and the Client Access License lets you use it. It is important to distinguish between the Client Access License, which you need for accessing Microsoft Server Products, and end-user license agreements (EULAs) for Microsoft desktop operating system products such as Windows, Windows NT Workstation, and MS DOS. The EULAs accompanying these desktop operating system products allow you to use these products fully on a single computer, but you must acquire a separate Client Access License to utilize the services of Microsoft Server Software.
+
+Can I make a second copy for my home or portable computer?
+
+The end-user license agreement (EULA) for many Microsoft application software products contains the following sentence. The primary user of the computer on which the SOFTWARE PRODUCT is installed may make a second copy for his or her exclusive use on either a home or portable computer. If your EULA contains this sentence, then, subject to the conditions mentioned, you may make a second copy of the software. Note that you must be the primary user of the computer on which the software is installed. The primary user is the individual using the computer most of the time it is in use. Only that individual is entitled to use the second copy. Further, the software must be installed on the local hard drive of your computer; you are not entitled to make and use a second copy on your home or portable computer if you run the primary copy of the software from a network server. Finally, only one secondary copy may be made; you may install this copy on either your home or portable computer but not both.
+
+Are there different types of software piracy? Is one type of piracy less damaging than any other?
+
+There are five basic forms of software piracy, and all are damaging both to the software publisher and to you, the end user. The five basic types of piracy are.
+
+Softlifting
+
+This form of piracy occurs when extra copies of a program are made within an organization for employees to use. "Disk swapping" among friends and associates outside of a business environment is also included in this category.
+
+Hard-Disk Loading
+
+Some computer dealers load unauthorized copies of software onto the hard disks of the computers they offer for sale, as an incentive for an end user to purchase a computer from that particular dealer.
+
+Counterfeiting
+
+This is the illegal duplication and sale of copyrighted software, often in a form designed to make the product appear legitimate. Software counterfeiting can be very sophisticated, including significant efforts to replicate packaging, logos, and anti-counterfeiting techniques such as holograms. It can also be unsophisticated, consisting of inferior or hand-written labels, with disks folded into a plastic bag and sold on street corners. In any form, software counterfeiting is very damaging to both the software developer and legitimate end users.
+
+Bulletin Board (BBS) Piracy
+
+This form of piracy occurs when copyrighted software is downloaded by users connected via a modem to a public or semi-private electronic bulletin board. This should not be confused with sharing public-domain software or providing "shareware." Shareware is software that may or may not be copyrighted but is generally offered for little or no charge by the author for nearly unrestricted use, including copying or sharing with others. Microsoft does not publish any shareware software that is intended for distribution or use over a bulletin board. Microsoft may, however, distribute updates or enhancements over BBSs or online services which are for use solely with licensed Microsoft products. Any unauthorized Microsoft software available over a bulletin board should be considered illegal.
+
+Software Rental
+
+This is where software is illegally rented to end users who, typically, permanently copy the rented software onto their computer's hard disk and then return the copy to the renter. There are three types of software rental piracy: product rented from a retail outlet for use on the renter's home or office computer; product rented through mail order "clubs"; and products installed on computers which are in turn rented for temporary use. However, in some cases, Microsoft may authorize a company to rent or lease computers on which Microsoft products are installed. In those cases, the company is required, as part of the rental or lease agreement, to have the renter agree to the terms of the end-user license agreement for Microsoft software.
+
+A new look and feel
+
+The look and feel of Windows has been improved to make it easier and faster for you to get your work done.
+
+Start button and taskbar
+
+At the bottom of your screen is the taskbar. It contains the Start button, which you can use to quickly start a program or to find a file. It's also the fastest way to get Help.
+
+When you open a program, document, or window, a button appears on the taskbar. You can use this button to quickly switch between the windows you have open.
+
+Windows Explorer
+
+In Windows Explorer, you can see both the hierarchy of folders on your computer and all the files and folders in each selected folder. This is especially useful for copying and moving files. You can open the folder that contains the file you want to move or copy, and then drag it to the folder you want to put it in.
+
+To find Windows Explorer, click the Start button, and then point to Programs.
+
+Network Neighborhood
+
+If you are using a network, the Network Neighborhood icon appears on your desktop. Double-click it to browse through the computers in your workgroup and the computers on your entire network.
+
+The desktop
+
+When you start Windows, the large area you see is called the desktop. You can customize the desktop by adding shortcuts to your favorite programs, documents, and printers, and by changing its look to fit your mood and personality. To adjust settings such as desktop color and background, use your right mouse button to click anywhere on the desktop, and then click Properties.
+
+Shortcut menus
+
+You can use your right mouse button to click any item and see a shortcut menu. This menu contains common commands that you can use on the item you clicked. For example, by clicking a file with your right mouse button, you can choose to open, copy, or delete it.
+
+HyperTerminal
+
+HyperTerminal is a new program you can use to easily connect to a remote computer, a bulletin board, or an online service. It replaces Terminal from Windows version 3.1. To find HyperTerminal, click the Start button, point to Programs, and then point to Accessories. If HyperTerminal is not on your computer, look up "installing, Windows components" in the Help Index.
+
+Microsoft Internet Mail and News
+
+Internet Mail
+
+Microsoft Internet Mail is fast, friendly, and easy to use. With an Internet connection and Microsoft Internet Mail, you can exchange e-mail messages with other people who have access to the Internet. Internet Mail fully supports Internet messaging standards, including SMTP/POP3 and MIME.
+
+You can organize and sort your messages in folders and automatically insert your personal signature in outgoing messages.
+
+You can view a list of messages and preview the contents of the message in one window, using the message list and preview pane. There you can respond to messages and switch folders to see more messages. Internet Mail provides an address book for storing the e-mail addresses of people you correspond and quickly inserting the addresses in messages. The address book also allows you to verify e-mail names to make sure they are valid before you send a message.
+
+Internet News
+
+With over 10,000 newsgroups, Usenet newsgroups offer something for everyone. From hobbies to politics to computers, newsgroups provide forums for exchanging ideas, information, and opinions. You can go to a newsgroup just to read what other people have to say, or you can post your own questions, tips, opinions, or answers. You can view a topic and all of the responses posted to it without having to scroll through the entire list of messages. When you do view the list of messages, you can expand and collapse individual topics to make it easier to look for messages or topics of interest.
+
+Looking for a newsgroup that matches your work, educational, or leisure interests? You can search for newsgroups that contain key words in the newsgroup name or description. Or you can browse a list of all of the newsgroups available from your Usenet provider. When you find a newsgroup that you want to keep coming back to, add it to your list of Favorites. You can mark messages, topics, or entire newsgroups to show that you have already read them. To start Internet Mail and News, just double-click the Internet Mail and Internet News icons on your desktop.
+
+Easier sharing
+
+To share a folder or a printer, you can use your right mouse button to click the folder or printer, and then click Sharing on the menu. When you share folders and printers, you can set up a password as the key to opening them, or you can create a list of users that you want to have access to them. If sharing is not enabled, you can turn it on by double-clicking the Network icon in Control Panel.
+
+Dial-Up Networking
+
+If you have a modem, you can use Dial-Up Networking to dial in to another computer that is set up as a server and has a modem, and then gain access to shared resources on that computer and the network it is connected to. To use Dial-Up Networking, double-click the My Computer icon, and then double-click Dial-Up Networking. If this component is not on your computer, look up "installing, Windows components" in the Help Index.
+
+Run command
+
+You can use the Run command on the Start menu to start any program or to open any folder, whether it is on your computer or on another computer on the network. The commands you run are saved, so you can easily run a command again by selecting it from the list in the Run dialog box.
+
+Open With command
+
+When you double-click a file and Windows doesn't know which program to use to open it, the Open With dialog box appears and you can specify the program you want to use.
+
+AutoPlay for CDs
+
+Just insert your audio CD into the CD-ROM drive, and it will start playing.
+
+Quick View
+
+You can now view documents that were created with popular Windows-based programs without starting the program. Just click a document you would like to view in My Computer or Windows Explorer, and then click Quick View on the File menu. If Quick View is not available, either your program doesn't support it, or it is not installed on your computer. Look up "installing, Windows components" in the Help Index.
+
+Shortcuts on the desktop
+
+You can put a shortcut to any program, document, or printer on your desktop or in any folder. Shortcuts are quick ways to get to the items you use often. For example, you can create a shortcut to your printer by using the right mouse button to drag its icon to the desktop. Then, to print a file, just drag its icon onto the printer icon!
+
+Saving your work
+
+Use the Save As command on the File menu to save a document for the first time. You will need to name the document, and you have the option of choosing a folder or location in which to put it. Click any item in the Save As dialog box below to see what it is.
+
+Connecting to the network
+
+After you have set up your computer to use a network, you can connect it to other network computers, and other network computers can connect to your computer.
+
+Connecting to the network by using a modem: Dial-Up Networking
+
+Whether you're at home or on the road, you can connect to your office computer and the network it is on by using a modem and dialing in to a remote-access server on your network. This feature is called Dial-Up Networking.After you're connected, you can use any shared resource, such as a file or printer, that is on the computer or network.For information about using Dial-Up Networking, look up "Dial-Up Networking" in the Help index.
+
+Customizing your Start menu
+
+You can add the programs you use most frequently to the Start menu, making them easy to find and available at all times.For example, if you use Paint frequently, you can add it to the Start menu.For information about adding a program to the Start menu, look up "Start menu, adding programs to" in the Help Index.
+
+Creating shortcuts to the programs and files you use most often.
+
+Shortcuts provide easy access to the programs and documents you use most often. For example, suppose you keep track of your time in a document called Timecard. You can place a shortcut to Timecard on your desktop.You can then open Timecard by double-clicking its shortcut icon. A shortcut does not change the document's location, and deleting a shortcut does not delete the original.You can create a shortcut to any item, including folders, disk drives, other computers, and printers. For more information, look up "shortcuts, adding to the desktop" in the Help Index.
+
+Saving personalized settings
+
+With Windows, you can set up your computer the way you like it. For example, you can change the colors on the desktop, move the taskbar, or add programs to the Start menu. If you share your computer, you can specify that each person who uses it can see his or her own settings after logging on.For more information, look up "multiple users of one computer" in the Help Index.
+
+

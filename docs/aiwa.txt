@@ -1,0 +1,566 @@
+AIWA Instruction Manual
+
+Warning (for use in the United Kingdom)
+
+This appliance is supplied with a fitted three pin mains plug. A 3 amp fuse is fitted in the plug. Should the fuse need to be replaced, use a 3 amp fuse approved by ASTA or BSI to BS 1362. When replacing the fuse, you must ensure that any removable fuse covers are correctly refitted. If you should lose the fuse cover, please contact your nearest AIWA dealer.
+
+Do not cut off the plug from this appliance.
+
+If the plug is not suitable for the power points in your home, or the cable is too short to reach a power point, obtain an appropriate safety approved extension lead or adapter. If in any doubt please consult a qualified electrician. If the plug is cut off, remove the fuse and dispose of the plug immediately. There is a danger of severe electrical shock if the cut off plug is inserted into any 13 amp socket. If a new plug is to be fitted please ensure it contains a 3 amp fuse, otherwise the circuit should be protected by a 5 amp fuse at the distribution board.
+
+Important The wires in the mains lead are coloured in accordance with the following code: BLUE - NEUTRAL, BROWN - LIVE.
+
+As the colours of the wires in the mains lead of this appliance may not correspond with the colour markings identifying the terminals in your plug, proceed as follows: The wire which is coloured BLUE must be connected to the terminal which is marked by the letter N or coloured BLACK. The wire which is coloured BROWN must be connected to the terminal which is marked by the letter L or coloured RED. DO NOT connect either the BLUE or BROWN wire of the mains lead to the earth terminal (marked with the letter E or by the earth symbol or coloured GREEN or GREEN/YELLOW) of a three pin plug.
+
+Warning To reduce the risk of electrical shock, do not expose this appliance to rain or moisture.
+
+Precautions Important Use only VHS-marked cassettes with this unit.
+
+This unit is designed to receive and record using the PAL colour system, and playback using the PAL and NTSC colour system.
+
+Audio/video material may consist of copyrighted work which must not be recorded without the authorisation of the owner of the copyright. Please refer to the relevant laws in your country.
+
+Installing The unit should be situated with adequate space around it so that proper heat ventilation is assured. Allow 10 cm clearance from the unit.
+
+- Do not place the unit on a bed, rug, or similar surface that may block the ventilation openings.
+
+- Do not install the unit in a bookcase, cabinet, or airtight rack where the ventilation may be impeded.
+
+Keep the unit away from radiators and other heat sources.
+
+Avoid using the unit near strong magnetic fields.
+
+Use the unit in the horizontal position only.
+
+Install the unit at least one meter away from radios and receivers. Otherwise, noise may occur during radio reception.
+
+Do not place heavy objects on the unit.
+
+Cautions Do not open the cabinet of the unit.
+
+Do not push any kind of object into the unit through the cabinet openings as they could touch current carrying parts, which may result in short-circuit, fire, electric shock, or damage to the unit.
+
+Do not spill liquid of any kind on this unit. If any liquid is spilled over the unit, immediately disconnect the unit from the mains, and consult a qualified service engineer.
+
+Do not put your hand into the tape compartment.
+
+When the system is not used for an extended period of time, disconnect the mains lead. When the lead is plugged in, a small amount of current continues to flow to the system, even when the power is turned off.
+
+When there is lightening, immediately disconnect the unit from the mains and never touch the aerial wire.
+
+Note on moisture condensation
+
+Moisture may condense inside the unit and cause damage to the unit and tape when the unit is moved from a cold to a warm place, after heating a cold room, or under conditions of high humidity. If any of above conditions is applied, place the unit in a well ventilated area and wait for about two hours before operating the unit, until the unit is warmed to room temperature and the moisture evaporates completely.
+
+Maintenance Professional periodic maintenance is required to keep the optimum performance of the unit. Maintenance and adjustments to internal components should not be done by the user. Please consult your dealer if you have any trouble with the unit.
+
+Cleaning the unit Wipe the cabinet clean using a damp soft cloth with diluted detergent. Never use thinner or benzine since they will damage the cabinet surface.
+
+Cleaning the video heads Although this unit cleans the video heads automatically, dirt may be accumulated after a long period of use. If the playback picture is blurred or noisy while the TV programmes are received clearly, the video heads may be dirty. In this case, clean the video heads using a commercially available video heads cleaning tape.
+
+Welcome Thank you for purchasing this AIWA product. To optimise the performance of this unit, please read though this manual carefully.
+
+Main features of this VCR VIDEO Plus+ system and one touch playback
+
+You can easily set the timer with the VIDEO Plus+ system. The recorded TV programmes with the timer can be played back quickly with one-touch playback.
+
+PDC (Programme Delivery Control) You do not have to worry anymore about broadcast delays, early starts, or interruptions. The PDC system adjusts the start and finish times of the TV programmes.
+
+NICAM broadcast You can receive, record, and play back stereo and bilingual TV programmes.
+
+Auto Set-Up Once this VCR is connected to an aerial and the mains, it automatically receives and sets the correct date and time.
+
+NTSC Playback on PAL-TV Tapes recorded in the NTSC system can be played back on this VCR.
+
+Connecting the VCR Important note
+
+Once this VCR is connected to an aerial, it will be tuned in and the correct date and time will be set automatically as soon as the mains lead is connected to the mains. If a satellite receiver or a cable box is connected to the VCR, please ensure they are turned on before the VCR is connected to the mains. For details, see "Setting up the VCR-Auto Set-Up" on page 7.
+
+Basic connections
+
+1. Disconnect the aerial cable from your TV and connect it to RF-IN on this VCR.
+
+2. Connect the supplied aerial cable to RF OUT on the VCR and the aerial connector on your TV.
+
+To listen to a stereo recorded tape or TV programme
+
+Connect the VCR to a stereo TV with an optional 21-pin scart cable, or stereo system with the supplied audio cable, as shown in "Additional connections" below. The sound from the VCR's aerial output is monaural.
+
+Additional connections To connect with the TV using a 21-pin scart connector
+
+This connection improves the picture and sound quality. Connect the VCR and the TV with an optional 21-pin scart cable. When you want to use an aerial or audio cable with the 21-pin scart cable, connect the aerial or audio cable first. Some 21-pin scart cables cannot be connected together with an aerial or audio cable.
+
+To connect a satellite receiver or cable box with a 21-pin scart connector
+
+Connect the VCR and the satellite receiver or cable box with an optional 21-pin scart cable.
+
+Note If your satellite receiver or cable box has more than two scart connectors, use the video output to connect to the VCR and not the TV output. Otherwise you may not receive a proper picture.
+
+To connect to a stereo system This connection improves the sound quality. Connect AUDIO OUT on the VCR to the audio input jacks on the stereo system with the supplied audio cable.
+
+Preparing the remote control Inserting the batteries Insert the two supplied R03 (size AAA) batteries. Be sure to match + and - on the batteries to the diagram inside the battery holder.
+
+Notes Do not mix a new battery with an old one. Do not mix different kinds of batteries. Remove the batteries when they have no more power, or when you do not use the remote control for a long period of time.
+
+Using the remote control Point the remote control toward REMOTE SENSOR.
+
+Notes The remote control may not operate when there is any obstruction between the remote control and REMOTE SENSOR. Strong ambient light sources such as florescent lamp or direct sunlight may cause unreliable operation. Using a TV with the same type of infrared remote control facing the same direction may cause incorrect operation. The maximum distance for effective control between the remote control and REMOTE SENSOR is 7 metres. Although you can use the remote control within an angle of up to 30 degrees in any direction from directly in front of REMOTE SENSOR, we recommend a narrower angle for stable operation.
+
+Setting up the VCR - Auto Set-Up
+
+Tips When the power supply is interrupted for more than 30 minutes, the preset channels are cleared, and you must start Auto Set-Up again. Do not turn on the VCR while "AUTO" is flashing. The VCR automatically corrects the clock setting every hour once you complete Auto Set-Up. The VCR automatically adjusts the clock setting for Daylight Saving Time once you complete Auto Set-Up.
+
+Note If the VCR is not connected to a cable TV or satellite receiver with the aerial cable, no TV station will be assigned to CH6.
+
+Once the VCR is connected to an aerial, it will be turned in and the correct date and time will be set automatically as soon as the mains lead is connected to the mains.
+
+Before starting
+
+If the VCR is connected to a cable TV or satellite receiver with the aerial cable, make sure to turn them on and set them to SKY ONE.
+
+1. Connect the mains lead to the mains. "AUTO" flashes in the display window. After the VCR settings (date, time, and channels) are complete, the VCR turns off within four minutes.
+
+2. Tuning your TV to the VCR. See page 8.
+
+If "AUTO" does not appear. Hold down CHANNEL / on the VCR simultaneously for a few seconds to start Auto Set-Up again.
+
+Tuning your TV to the VCR
+
+If you want to connect your VCR to the TV with a 21-pin scart cable, be sure to select "OFF" in step 2, then set the TV to the video input mode.
+
+1. During power off, hold down POWER on the VCR for more than 4 seconds to display "OUT 52" in the display window.
+
+2. Press CHANNEL / repeatedly until the TV channel you want to use for VCR playback appears in the display window. You can select any RF channel between 23 and 69. However we recommend that you try one of the following suggestions, with a): a)52, b)67, c)57, d)22.
+
+3. Select an unused channel on the TV and tune the TV so the black and white test pattern appears clearly on the TV screen. Refer to the TV operating instructions for tuning. Now the output from the VCR is tuned to this channel. Whenever you want to play back a tape, select this channel. If there is interference in the picture (wavy lines, picture roll, etc.), use CHANNEL / to select the next recommended channel in step 2, retuning your TV each time until the black and white pattern appears clearly. If there is still interference in the picture, connect the VCR to the TV with a 21-pin scart cable. In this case, press CHANNEL / repeatedly in step 2 until "OFF" appears in the display window.
+
+4. Press POWER to turn off the VCR.
+
+Setting the language
+
+The on-screen menu can display any of five languages, English, German, French, Italian and Spanish.
+
+1. Press POWER to turn on the VCR.
+
+2. Turn on the TV and set it for VCR reception. If the VCR and the TV are connected with a 21-pin scart cable, press TV/VCR to display "VCR" in the display window. If the VCR and the TV are connected with only the aerial cable, set the TV to the VCR channel.
+
+3. Press MENU.
+
+4. Press SET+/- to select LANGUAGE, then press ENTER.
+
+5. Press SET+/- to select the desired language, then press ENTER.
+
+6. Press MENU to return to the normal screen.
+
+Checking the channel set-up to use VIDEO Plus+
+
+To set the timer using VIDEO Plus+, you have to check whether the correct TV stations are assigned in the correct channels. Press CHANNEL /  to check that each channel has the following TV station.
+
+Channel number	TV station
+
+CH1			BBC1
+
+CH2			BBC2
+
+CH3			ITV
+
+CH4			CH4
+
+CH5			CH5
+
+CH6			Cable / Satellite (Set SKY ONE if the cable TV or satellite receiver is connected with the aerial cable.)
+
+If a TV station does not match the correct channel number, the VIDEO Plus+ does not function correctly. In this case, co-ordinate the number.
+
+Example If the VCR tunes "BBC2" to channel number 7, allocate the corresponding channel (GUIDE CH) number "2" to the actual channel (VCR CH) number "7".
+
+1. Press MENU.
+
+2. Press Set +/- to select GUIDE CH SET, then press ENTER.
+
+3. Press Set +/- or number buttons to select the GUIDE CH number "2", then press ENTER.
+
+4. Press SET +/- or number buttons to select the VCR CH number "7", then press ENTER.
+
+When using the number buttons, press 0 to enter the tens digit, then press the 1 through 9 buttons to enter the ones digit.
+
+5. Repeat steps 3 and 4 if there are other TV stations which do not match the corresponding channels.
+
+6. Press MENU twice to close the display.
+
+Tips If you connect a satellite receiver or cable box to the VCR, you must select SAT or CABLE as the GUIDE CH in step 3. If you connect a satellite receiver or cable box to the VCR with a 21-pin scart cable, you must select AV as the VCR CH in step 4.
+
+Playing back a tape Before starting Turn on the VCR and the TV and set the TV for VCR reception. When the VCR and the TV are connected with a 21-pin scart cable, Press TV/VCR to display "VCR" in the display window. When they are connected with only the aerial cable, set the TV to the VCR channel.
+
+1. Insert a cassette. The power turns on automatically. Playback starts immediately if the erasure prevention tab has been removed from the cassette.
+
+2. Press PLAY to start playback.
+
+To stop playback Press STOP.
+
+If you cannot get a clear playback picture Although the VCR adjusts the tracking automatically, you may need to adjust the tracking manually if the tape quality is poor. While the VCR is adjusting the tracking automatically, "ATR" (Automatic Tracking) flashes in the display window. It lights steadily after the adjustment is complete. If "ATR" keeps flashing more than 10 seconds, try manual tracking.
+
+To adjust the tracking manually During playback, press TRACKING +/- repeatedly until you get the best possible picture. (Automatic Tracking is cancelled and "ATR" goes off.)
+
+To return to automatic tracking Press AUTO TRACKING.
+
+Tips When the tape reaches the end during playback, fast-forward, or forward search, the VCR automatically rewinds the tape to the beginning, ejects the cassette, and turns the power off. (Auto rewind function). The VCR selects the tape speed, SP or LP automatically.
+
+Note When you play back an NTSC tape, you may not be able to get clear pictures even if you adjust the tracking manually.
+
+To watch a picture of tape during fast-forward or rewind - skip search
+
+You can watch a picture of tape during fast-forward or rewind mode. Hold down F FWD or REW. The VCR switches forward or reverse search. Release the button to return to the fast-forward or rewind mode.
+
+Selecting stereo or bilingual sound Press AUDIO SELECT (Audio Monitor) to select the sound you want. Each press changes the indicator on the TV screen as follows.
+
+Tips If you press EJECT while the power is off, the VCR automatically turns the power on, ejects the cassette, and turns the power off. You can adjust unstable pictures during pause by pressing TRACKING +/- repeatedly.
+
+Notes If a still picture lasts for more than five minutes, the VCR will automatically enter playback mode to protect the tape. Noise lines may appear or the picture may be distorted during pause depending on the quality of the tape. Noise lines may appear, and the colour may fade during forward and reverse searches. You can move the noise lines by pressing TRACKING +/- repeatedly. Forward and reverse searches may not operate correctly on some TVs. The sound will be muted during pause and forward and reverse searches. You can adjust the speed of forward and reverse searches by pressing F FWD and REW repeatedly.
+
+Notes When you play a tape recorded in mono, the sound is always played back in mono regardless of the AUDIO SELECT setting. When you set NICAM to OFF in the MENU (see page 18), the sound is always played back in standard (mono) regardless of the AUDIO SELECT setting.
+
+Playing back a tape repeatedly.
+
+1. Press MENU.
+
+2. Press SET +/- to select AUTO  REPEAT, then press ENTER.. The cursor moves to ON.
+
+3. Press MENU to close the menu.
+
+4. Press PLAY. The VCR plays back the tape to the end, rewinds to the beginning, then repeats playback.
+
+To cancel repeat playback Press ENTER to move the cursor to OFF in step 2 above. Repeat playback will also be cancelled by pressing POWER or using the counter memory function.
+
+Playing back the NTSC tape Tapes recorded at SP speed in the NTSC colour system can be played back on this unit. If you playback the NTSC tape on this unit, you can watch the picture on a PAL colour system TV.
+
+Notes The playback picture shrinks vertically to some degree. This does not indicate a malfunction in TV or VCR. The playback picture may scroll vertically on the screen. If your TV has a V-HOLD control, adjust for a stable picture. If not, you cannot stop scrolling. Horizontal noise bars may appear on the screen during special effect playback (visual search, still picture), along with discolouring. Although NTSC tapes can be played back on a PAL TV, these tapes cannot be dubbed by a PAL system VCR.
+
+Various search functions Playing at slow speed
+
+Press SLOW during playback. The picture is played back a 1/10th normal speed. To resume normal playback, press PLAY.
+
+Playing frame-by-frame
+
+1. Press PAUSE/STILL to pause the picture.
+
+2. Hold down SLOW. To resume normal playback, press PAUSE/STILL.
+
+Rewinding or fast-forwarding to a specific point - Counter memory
+
+1. Press CLOCK/COUNTER to display the tape counter in the display window.
+
+2. Press COUNTER MEMORY.
+
+3. Press COUNTER RESET at the point you want to locate later. The tape counter in the display resets to "0:00:00."
+
+4. After playback, press STOP, then REW or F FWD. The tape automatically stops when the tape counter returns to about "0:00:00."
+
+To cancel Counter Memory
+
+Press COUNTER MEMORY, POWER or EJECT. The Counter Memory function is cancelled when using the Auto Repeat Playback function.
+
+Notes If you continue slow motion playback for more than five minutes, the VCR will automatically enter playback mode to protect the tape. The sound will be muted during slow motion playback and frame-by-frame playback. Noise lines may appear depending on the quality of the tape. You can move the noise lines by pressing TRACKING +/- repeatedly. The pictures of some tapes may be distorted depending on the quality of the tape. Counter Memory does not work during Auto rewind.
+
+Searching with the index function - Index Search
+
+1. Press INDEX during stop or playback. "IND:01" appears in the display window.
+
+2. Press the number buttons to select the index number. When selecting  a number less than 10, press 0 to enter the first digit and then press the buttons 1 through 9 to enter the second digit. You can also select the index numbers using CHANNEL /.
+
+3. Press F FWD or REW to fast forward or rewind the tape. The VCR begins playback automatically when the VCR finds the desired index signal.
+
+To search the next index signal
+
+Press INDEX during stop or playback, then press F FWD or REW. When the next index signal is found, the VCR goes to playback.
+
+Tip You can also see the tape counter on the screen display. Press CALL repeatedly until the tape counter appears. See page 28.
+
+Note When playing back NTSC tapes, the tape counter may not be accurate.
+
+Notes Index signals should be at least one minute apart in SP mode and two minutes apart in LP mode. Otherwise, the VCR cannot detect them properly. Index signals may not be detected on damaged or worn out tapes.
+
+Recording a TV programme
+
+Before starting Turn on the VCR and the TV and set the TV for VCR reception. When the VCR and the TV are connected with a 21-pin scart cable, Press TV/VCR to display "VCR" in the display window. When they are connected with only the aerial cable, set the TV to the VCR channel.
+
+1. Insert a cassette with its erasure prevention tab in place. The power turns on automatically.
+
+2. Press SPEED to select the tape speed, SP or LP. "SP" appears when SP is selected. "LP" appears when LP is selected. LP provides twice as much recording time as SP, although SP produces better picture and audio sounds.
+
+3. Press CHANNEL / repeatedly until the channel you want to record appears. You can also use the number buttons to enter the channel number.
+
+4. Press REC/OTR to start recording. "INDEX WRITE" flashes on the screen for a few seconds. See page 15.
+
+To stop recording Press STOP.
+
+To pause recording. Press PAUSE/STILL. To resume recording, press PAUSE/STILL. To switch to One-Touch timer recording mode, press REC/OTR during pause. (See page 19)
+
+To prevent an accidental recording
+
+Break off the erasure prevention tab on the back edge of the cassette. To record over the tape again, cover the gap with adhesive tape.
+
+Tip If you want to record the programme through the line input, press CHANNEL / continuously or INPUT SELECT to display "A1" (from TV SCART PERITEL connector at the back) or "A2" (from VCR/DECODER SCART PERITEL connector) in the display window in step 3.
+
+Notes If you try to record on a cassette without its erasure prevention tab, the VCR will eject the cassette. If recording pause lasts for more than 5 minutes, the VCR will automatically enter stop mode to protect the tape. When you connect a satellite receiver or cable box to the VCR/DECODER SCART PERITEL connector with a 21-pin scart cable, the input source automatically changes to AV 2 (VCR/DECODER SCART PERITEL connector) when selecting channels 71-80.
+
+Playing back the portion you just recorded - One-Touch Playback
+
+Using One-Touch Playback after VIDEO Plus+ (Page 20) or other timer recordings (see page 19 and 22) is convenient. You can make timer recordings and playback only the portion you just recorded with the timer by pressing a single button later.
+
+1. Press STOP to stop recording (when recording without a timer). ONE-TOUCH PLAYBACK on the VCR lights. If another operation button is pressed after you stop recording, One-Touch Playback will be cancelled.
+
+2. Press ONE-TOUCH PLAYBACK on the VCR or OTPB on the remote control. The tape rewinds to the start of the recorded portion and begins to playback.
+
+When you set the timer for more than two timer programmes
+
+The VCR starts playing back from the earliest one when you use One-Touch Playback. To find the beginning of the second (or later) programme, use Index Search (page 15).
+
+Notes One-Touch Playback does not work for recordings of less than thirty seconds. If there is another index signal close to the beginning of your timer recording, the VCR may rewind to that signal when you press ONE-TOUCH PLAYBACK.
+
+Recording NICAM stereo and bilingual programmes
+
+1. Press MENU.
+
+2. Press SET +/- to select NICAM, then press ENTER to select AUTO.
+
+AUTO to record NICAM broadcasts on Hi-Fi audio track. (When a non NICAM broadcast is received, standard sound will be recorded on both Hi-Fi and normal audio tracks.) OFF to record standard sound on both Hi-Fi and normal audio tracks regardless of the broadcast type.
+
+3. Press MENU to store the setting.
+
+4. Start recording the TV programme. NICAM broadcasts are recorded according to the following table.
+
+To select the sound when playing back a NICAM-recorded tape See page 12.
+
+Tip If NICAM sound has noise or you want to record the standard sound regardless of the broadcast type, set NICAM to OFF.
+
+Recording with One-Touch Timer Recording
+
+You can immediately start recording the current channel for a specified time with One-Touch Timer recording.
+
+Before setting the timer Insert a cassette with its erasure prevention tab in place. Make sure the tape is longer than the recording time. Turn on the TV and set it for VCR reception. Select the channel to record and tape speed.
+
+1. Press REC/OTR. The VCR starts recording.
+
+2. Press REC/OTR repeatedly to set the recording duration. Each press changes the recording duration on the TV screen and in the display window in the following way: 0:30 1:00  1:30  2:00  3:00  4:00  normal recording
+
+The recording time indicator counts down to "0:00." The recording stops at "0:00" and the VCR turns off.
+
+To stop recording Press REC/OTR until normal recording is resumed, then press STOP.
+
+To extend the recording duration while recording Press REC/OTR until the new duration you want appears in the display window.
+
+Tip You can use One-Touch Playback after recording. See page 17.
+
+Note During One-Touch Timer Recording, no other functions operate.
+
+Setting the timer with VIDEO Plus+
+
+You can greatly simplify timer recordings with VIDEO Plus+. Just enter the PlusCode, a number assigned to each TV programme, and the VCR will set the timer recording automatically. You can find PlusCodes in most TV guide magazines. You can set up to eight programmes.
+
+Before setting the timer Check that the VCR clock is set correctly. Check that the correct channel number is assigned to the right TV station (see page 10). Insert a cassette with its erasure prevention tab in place. Make sure the tape is longer than the recording time. Turn on the TV and set it for VCR reception. To set the timer for a satellite or cable TV channel, check that the satellite (or cable) receiver is turned on and the channel you want to record is selected.
+
+1. Press VIDEO Plus+. If "PROGRAMME FULL" flashes and the timer programme list is displayed on the TV screen, the timer programmes are fully set. To set a new programme, press SET +/- to select the unnecessary programme, then press CANCEL.
+
+2. Enter the PlusCode of the TV programme you want to record using the number buttons. If you make a mistake, press CANCEL, then enter the correct number.
+
+3. Press ONCE, DAILY or WEEKLY. The following timer information appears on the TV screen: date, PDC information, start and finish time, the channel number and tape speed. If you want to change the settings here, see "Changing the settings" on the next page.
+
+4. Press SPEED to select SP or LP. LP provides twice as much recording time as SP, although SP produces better picture and audio sounds.
+
+5. Check that the timer settings are correct, then press VIDEO Plus+.
+
+6. If you want to set another programme, repeat from step 1.
+
+7. Press T-REC to turn off the unit.  appears in the display window, and the VCR stands by for recording. If  flashes, a cassette is not inserted. The cassette is ejected if the cassette's erasure prevention tab has been removed.
+
+Tips If you want to exit while setting a programme, press CANCEL then VIDEO Plus+. When the power supply is interrupted for more than thirty minutes, the preset program is cleared. In this case, you have to set the timer again. VIDEO Plus+ will add a safety margin to the set recording time. The VCR will begin recording twenty seconds before the set recording time except when PDC is on or another timer recording overlaps the safety margin. The cable TV or satellite programmes will be recorded through channel 6 when the VCR is connected to the cable TV or satellite receiver with the aerial cable. They will be recorded through VCR/DECODER SCART PERITEL when connected with a 21-pin scart cable.
+
+Changing the settings
+
+You can change any of the settings while in step 3 on the previous page.
+
+To extend the recording time Press 0 button repeatedly. Each press extends the recording time in 15-minute increments to a maximum of four hours. To cancel the setting, press CANCEL.
+
+To record with the PDC (Programme Delivery Control) system
+
+The PDC system automatically adjusts the start and finish times for a timer programme if the TV programme starts early or late, or runs on longer than scheduled. Press PDC to display "ON" for recording with PDC. The PDC system is currently broadcast by certain station in some areas only. Do not set PDC to ON for a non-PDC channel.
+
+If the programme overlaps another The overlapped portions will be deleted. The programme listed first on the timer programme setting screen has priority over the succeeding programme as illustrated. Select TIMER REC SET in the MENU. Then press SET +/- to select the unnecessary programme, and press CANCEL to cancel a programme.
+
+Important Note When the  indicator appears, no other functions on this unit are not operate. To operate the other functions, press T-REC. Afterwards, be sure to press it again to activate timer recordings.
+
+Tip To confirm the settings, press SET +/- to select TIMER REC SET in the MENU. Then press ENTER to display the timer programme list. Press MENU twice to return to the normal screen.
+
+Setting the timer manually If you cannot use VIDEO Plus+, you can set the timer manually. You can set up to eight programmes within one month of the current date.
+
+Before setting the timer Check that the VCR clock is set correctly. Insert a cassette with its erasure prevention tab in place. Make sure the tape is longer than the recording time. Turn on the TV and set it for VCR reception. To set the timer for a satellite or cable TV channel, check that the satellite (or cable) receiver is turned on and the channel you want to record is selected.
+
+1. Press MENU.
+
+2. Press SET +/- to select TIMER REC SET, then press ENTER.
+
+3. Press SET +/- to select the line on which no programme has been set, then press ENTER.
+
+4. Press SPEED to select SP or LP. LP provides twice as much recording time as SP, although SP produces better picture and audio sounds.
+
+5. Press PDC to display "ON" if you want to set the timer with the PDC function. See "To record with the PDC (Programme Delivery Control) system" on page 21. The PDC system is currently broadcast by certain stations in some areas only. Do not set PDC to ON for a non-PDC channel.
+
+6. Press SET +/- to set the date, then press ENTER. If you want to set daily/weekly recordings, see next page.
+
+7. Set the start time (hours and minutes), finish time (hours and minutes) and the channel in the same way as in step 6. The timer programme list appears.
+
+8. If you want to set another programme, repeat steps 3 through 7.
+
+9. Press MENU twice to return to the normal screen.
+
+10. Press T-REC to turn off the VCR.  appears in the display window and the VCR stands by for recording. If  flashes, a cassette is not inserted. The cassette is ejected if the cassette's erasure prevention tab has been removed.
+
+Tip If you want to record the programme through the line input, press SET +/- to display "AV1" (from TV SCART PERITEL connector at the back) or "AV2" (from VCR/DECODER SCART PERITEL connector at the back) in step 7 instead of the channel number.
+
+To set the daily/weekly timer In step 6, press SET- repeatedly before pressing ENTER. The setting changes as follows.
+
+Example The current day (Thursday)
+
+SUN-SAT (Sunday to Saturday)
+
+MON-SAT (Monday to Saturday)
+
+MON-FRI (Monday to Friday)
+
+WKL-WED (Every Wednesday)
+
+WKL-TUE (Every Tuesday)
+
+WKL-FRI (Every Thursday)
+
+one month later minus one day
+
+one month later minus two days
+
+After setting, press ENTER.
+
+To correct the data while setting Press ENTER until the item you want to correct flashes, then press SET +/- to set the correct data. Then press MENU twice.
+
+To cancel a programme Select TIMER REC SET in the MENU. Then press SET +/- to select the unnecessary programme, and press CANCEL.
+
+Important note When the  indicator appears, no other functions on this unit are not operate. To operate the other functions, press T-REC. Afterwards, be sure to press it again to activate timer recordings.
+
+Tip When the power supply is interrupted for more than thirty minutes, the preset program is cleared, and you must set the timer again.
+
+Note When setting the timer with PDC, enter the start and finish times exactly as indicted in the TV programme guide, otherwise the PDC function will not work.
+
+Dubbing Operation Before dubbing. Turn on the TV, and set it for VCR reception.
+
+1. Insert a pre-recorded source cassette into another (playback) VCR.
+
+2. Insert a blank cassette with its erasure prevention tab in place into your HV-FX2800K (recording) VCR.
+
+3. Press INPUT SELECT to display "A2" in the display window.
+
+4. Press SPEED to select SP or LP.
+
+5. Set the other VCR to playback pause.
+
+6. Press REC/OTR on the recording VCR, then press PAUSE/STILL.
+
+7. Press PAUSE/STILL on the recording VCR to start recording and set the other VCR to playback at the same time to start dubbing.
+
+Audio dubbing You can add music from a stereo system onto the normal audio track. The monaural sound previously recorded is replaced while the original picture and Hi-Fi track are retained.
+
+Connecting with a stereo system Operation Before audio dubbing Turn on the TV and set it for VCR reception.
+
+1. Turn on the stereo system, prepare the audio source, and set it to the playback  stand-by mode.
+
+2. Insert a Hi-Fi pre-recorded cassette with its erasure prevention tab in place into your HV-FX2800K VCR.
+
+3. Press PLAY, then press PAUSE/STILL at the point you want to start audio dubbing.
+
+4. Press AUDIO DUB to set the VCR to the audio dubbing stand-by mode. "A-DUB" flashes in the display window.
+
+5. Start playing the audio source and press PAUSE/STILL at the same time to start audio dubbing. "A-DUB" lights in the display window.
+
+6. Press STOP at the point you want to stop audio dubbing.
+
+To listen to the audio dubbed tape If the previous recording was in stereo, both the audio dubbing recording and the original sound recording are saved on the tape. To listen to the audio dubbing recording, press AUDIO SELECT to select MONO. To listen to both audio dubbing and the original recording at the same time, select AUDIO MIX in the MENU. Then press ENTER to move the cursor to ON, both sound recordings will be heard. To cancel the AUDIO MIX function, set AUDIO MIX to OFF in the MENU. The AUDIO MIX function remains on even if you turn the power off or eject the cassette.
+
+Notes If an audio dubbing is made with a monaural pre-recorded tape, the previously recorded sound is erased. You cannot conduct audio dubbing with a cassette whose erasure prevention tab is removed. You can audio dub only from AUDIO IN L/R at the back.
+
+Setting the clock manually You must set the date and time manually for timer recordings if Auto Set-Up did not set them correctly.
+
+1. Press MENU.
+
+2. Press SET +/- to select CLOCK SET, then press ENTER.
+
+3. Press SET +/- to set the day, then press ENTER.
+
+4. Set the month, year, and the time (hours and minutes) as in step 3. The day of the week will automatically appear when you set the year. To change the minutes setting in ten minute, press and hold SET +/-.
+
+5. Press SET +/- to move the cursor to AUTO TIME ON.
+
+6. Press ENTER to start the clock.
+
+To correct the digits while setting Repeat the procedure from step 1.
+
+Tips The VCR automatically corrects the clock setting every hour once you set AUTO TIME to ON. The AUTO TIME function adjusts the clock only if the error is within five minutes. The VCR automatically adjusts the clock setting for Daylight Saving Time once you set AUTO TIME to ON.
+
+Setting the TV channels manually You must set the TV channels manually for recording TV programmes, if Auto Set-Up does not set them correctly.
+
+1. Press PRESET.
+
+2. Press SET + to scan (SET- to scan down) until the TV station to be preset appears on the TV screen, then press ENTER.
+
+3. Press SET+/- to select the channel number for the scanned TV station so it corresponds to the following chart.
+
+Channel number	TV station
+
+1			BBC1
+
+2			BBC2
+
+3			ITV
+
+4			CH4
+
+5			CH5
+
+6			Cable TV/Satellite (Set SKY ONE if the cable TV or satellite receiver is connected with the aerial cable)
+
+(The correct channel assignment is necessary for timer recordings with VIDEO Plus+)
+
+4. Press PRESET.
+
+5. Repeat steps 1 through 4 until all the required stations are set.
+
+To skip unnecessary channels If there are unnecessary channels, they can be skipped when you press CHANNEL /. Select the channel you want to skip using the number or CHANNEL / buttons, then press CH. SKIP. The channel number in the display window flashes. To cancel the skip setting, select the skipped channel using the number buttons, then press CH. SKIP.
+
+On-screen function display Identifying the on-screen display items
+
+Changing the on-screen function display Press CALL. Each press changes the on-screen function display as follows:.
+
+Note Hi-Fi appears only when a Hi-Fi cassette is inserted.
+
+Troubleshooting If the unit does not seem to operate properly, read the instructions again, then check the table below.
+
+The POWER button does not operate. Make sure the lead is connected securely.
+
+The playback picture is noisy. Make sure the TV is set to the video channel or video input. Adjust the tracking manually when the tape quality is poor. Although the unit cleans the video heads automatically, dirt may be accumulated after a long period of use. Clean the video heads with a commercially available video heads cleaning tape. Make sure all the connections with the VCR are made correctly and securely.
+
+There is no playback picture. Set the TV to the video channel or video input.
+
+TV reception is noisy or there is no TV reception. Connect the VCR to the aerial and TV correctly and securely. Move the VCR away from the TV set.
+
+Tape operation buttons do not work while the power is on and the cassette inserted. Moisture condensation may have occurred. Wait for about two hours until the moisture evaporates completely before you operate the VCR.
+
+Abnormal operation has occurred. External interference may have affected the internal microprocessor. Disconnect the mains lead from the mains outlet. Then connect it again.
+
+The remote control does not operate. Replace both batteries with new ones.
+
+There is no sound. Connect the VCR correctly and securely.
+
+The timer does not operate. Set the VCR clock correctly.
+
+The VCR receives no or noisy NICAM. Make sure the aerial is receiving the NICAM broadcast clearly. Make sure NICAM is set to AUTO in the SYSTEM menu.
+
+Index to parts and controls Refer to the pages indicated in parentheses ( ) for details. Front panel with jack cover detached Display window Rear panel Remote control.
+

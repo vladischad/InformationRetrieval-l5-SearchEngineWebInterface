@@ -1,0 +1,299 @@
+Dear Panasonic Customer, welcome to the Panasonic family of customers. We hope that you have many years of enjoyment from your new colour television. This is a very advanced colour television, however, the Quick Start Guide will tell you how to have the TV operating quickly; you can then read the following pages to fully utilise the advanced features. This television has a low power consumption making it very cost effective to run. To this end, the standby power consumption is merely 1 watt.
+
+Warnings and precautions 
+
+This TV is designed to operate on A.C. 220 - 240V,50Hz. This TV is capable of receiving the following transmission standard,PAL 1 To prevent damage which might result in electrical shock or fire, do not expose this TV set to rain or excessive moisture. Warning: High voltage! Do not remove the rear cover as live parts are accessible when it is removed. There are no user serviceable parts inside. Avoid exposing the TV set to direct sunlight and other sources of heat. Remove the mains plug from the wall socket when the TV set is not used for a prolonged period of time.
+
+Cabinet and picture tube care 
+
+Remove the mains plug from the wall socket.The cabinet and picture tube can be cleaned with a soft cloth moistened with mild detergent and water. Do not use solutions containing benzol or petroleum. TV sets can produce static electricity, care must be taken whenever touching the TV screen. Adequate ventilation is essential to prevent failure of electrical components. We recommend that a gap of at least 5 cm is left all around this TV even when it is placed inside a cabinet or between shelves.
+
+For your safety please read the following text carefully. 
+
+This appliance is supplied with a fitted three pin mains plug for your safety and convenience.A 5 amp fuse is fitted in this plug. If the fuse is replaced then the replacement must be 5 amp rated and should be approved by ASTA or BSI to BS1362. Check for the ASTA mark or the BSI mark on the body of the fuse.If the fitted plug has a removable fuse cover you must ensure that it is refitted when the fuse is replaced. If you lose the fuse cover the plug must not be used until a replacement cover is obtained. Replacement fuse covers can be purchased through your local Panasonic dealer. The plug fitted to this appliance incorporates a mains filter circuit. If this is removed or replaced with a non-filtered plug this television will no longer meet the European standards for Electromagnetic Compatibility (EMC). If the fitted plug is unsuitable for the socket outlet in your home an appropriate adapter should be used. Nonetheless, if the fitted plug is replaced, the fuse should be taken out and the cut-off plug disposed of safely. There is danger of severe electrical shock if the cut off plug is inserted into any 13 amp socket. If a new plug is to be fitted please observe the wiring code as shown below. If in any doubt please consult a qualified electrician.
+
+How to replace the fuse (for plug type shown in example 1) 
+
+Lift out the removable fuse compartment with a screwdriver and replace the fuse, then refit securely into the mains plug (See example 1).
+
+How to replace the fuse (for plug type shown in example 2). 
+
+Lift open the fuse compartment, in the mains plug, with a screwdriver, and replace the fuse, then press the fuse cover down securely. (See example 2).
+
+Important- The wires in the mains lead of this appliance are coloured in accordance with the following code- BLUE: NEUTRAL, BROWN: LIVE. 
+
+As the colours of the wires in the mains lead of this appliance may not correspond to the markings identifying the terminals in your plug, proceed as follows:-
+
+1. The BLUE wire must be connected to the terminal marked 'N' or coloured black. 
+
+2. The BROWN wire must be connected to the terminal marked 'L' or coloured red.
+
+Important note 
+
+Under no circumstances should either of these wires be connected to the Earthterminal of the three pin plug, marked with the letter 'E' or the earth symbol.
+
+Fitting remote control batteries 
+
+Notes
+
+Make sure that the batteries are fitted the correct way round. Do not mix old batteries with new batteries. Remove old, exhausted batteries immediately. Do not mix different battery types, i.e. Alkaline and Manganese. Do not use rechargeable (Ni-Cad) batteries.
+
+Quick start guide
+
+1. TV only Connect Aerial co-axial cable direct to TV RF IN socket. OR using a VCR Connect Aerial co-axial cable to RF Input socket of VCR and a RF coaxial cable from VCR RF Out socket to TV RF IN socket. The VCR can also be connected to the TV using a SCART to SCART lead if you are using a stereo VCR. Use the AV1 21 pin terminal for a VCR. To connect an S-Video VCR use the AV2S21 pin terminal.
+
+Further information for VCR and Satellite Receiver installation with this TV can be found on page 24. 
+
+OR Using a VCR and Satellite receiver
+
+Connect Aerial co-axial cable to RF Input socket of Satellite Receiver. An RF coaxial cable connects from Satellite Receiver RF Out socket to VCR RF IN socket. A further Coaxial  cable connects from the VCR RF OUT socket to the TV RF IN socket. The Satellite receiver and the VCR can also be linked by SCART to SCART lead if you are using a stereo VCR. Further details of Audio/Video connections can be found on pages 26 and 27. Ancillary equipment and leads are not supplied.
+
+2. Switch ON your VCR. We recommend that you have the VCR's test signal 'on' - refer to your VCR instruction book to locate the VCR Test Signal switch (usually on the rear of the VCR). Switch ON your Satellite Receiver. The Satellite Receiver must be tuned to either SKY ONE or SKY NEWS before starting Auto Setup. When Auto Setup has finished, the satellite position that has been stored will be listed as 'SAT'. Plug the TV into the mains socket and switch on.
+
+3. Programmes will appear immediately if your dealer has programmed the TV for you. If the TV has not been programmed for you then Auto setup will begin. TV stations will be located, sorted into order and stored ready for use. The sorting order depends upon the TV signal, the broadcasting system, and reception conditions. If the order is not to your preference it can be rearranged. Refer to the Programme Edit menu - see page 17 for details. Switch the VCR Test Signal 'off'. If your VCR Test Signal appears as a programme position it can be deleted using the Programme Edit menu. ...READY TO GO! It is important that you use only position '0' for your VCR. If your VCR does not appear to operate on programme position '0' (the VCR position),refer to page 24 for guidance.
+
+Basic controls
+
+Although you will normally use tuning methods provided by the tuning menus that appear later in this book, it is possible to operate basic tuning control by repeatedly pressing the 'F' key on the front panel until the Tuning mode is reached. Pressing the front panel - or + keys will lead to the Tuning procedure menu. Following the on screen instructions will allow you to tune and save any programme positions.
+
+On screen display menus 
+
+The advanced features of this television are controlled by using on-screen menus. These are contained in the menu structure starting from the Main menu as shown below. This TV has a comprehensive system of On Screen Display menus to access adjustments and options. All menus (except AV select) start from the Main menu. If you follow the on screen instructions you will be able to move to further menus.The menu structure is shown on the previous page. The following remote control keys can be used to access and adjust settings from the On Screen Display menus. Some selections, for example, Contrast, Brightness, Colour and Sharpness will display a coloured adjustment bar. Some selections, for example, Mode, allow a choice to be made. The 'MENU' key is used to open the Main menu and also to return to either the Main or a previous menu. The keys are used to move the selector up and down the menu. The keys are used to access your selected function and either adjust levels or to make a choice. The 'STR' key is used to store settings after your adjustment or choice has been made. The 'N' key is used to leave the menu system and return to the normal viewing screen.
+
+Main menu Notes 
+
+The levels of Contrast, Brightness, Colour, Sharpness and Tint are adjusted by using the coloured bar, that will appear on selection,as a guide. Tint function will only appear on the Main menu if MNTSC or NTSC inputs are connected. Pressing STR (whilst in either the Main or Sound menus) after making adjustments to the Contrast, Brightness, Colour,Sharpness, (Tint in MNTSC/NTSC), Volume, Bass and/or Treble will store these adjustments in memory as your normal settings. Pressing the N button at any time will restore the TV to these settings. The coloured adjuster bars will disappear after a short timeif no adjustment is made. If Sound or Setup menus are selected then they will lead to further menus as detailed on pages 11 and 12.
+
+1. MENU To open Main menu.
+
+2.  To move selector up or down to the function that you wish to access. To access your choice.
+
+3. To increase or decrease level using colour bar as guide or to access Sound or Setup menus.
+
+4. MENU To return to viewing screen.
+
+Sound Menu Notes 
+
+Bass - adjusts the bass response. Treble - adjusts the treble response. Balance - adjusts the sound output levels between the left and right channels. Volume Correction - (in AV mode only) allows different volume levels to be set for TV and AV signals. NICAM - Select either NICAM: on for stereo sound reproduction or NICAM: off for FM Mono sound output. If NICAM Mono is being transmitted select either FM Mono, NICAM Mono I (M1) or NICAM Mono II (M2). The outputs depend upon the signal being transmitted. It is advisable to switch to FM Mono if reception deteriorates. When NICAM transmissions are not being received the sound will be in FM Mono only. Mode - the sound quality can be set to Music or Speech, as required, by selecting the appropriate choice.Ambience - a dynamic sound enhancer that gives a feeling of greater acoustic presence. Pressing STR (whilst in either the Main or Sound menus) after making adjustments to the Volume, Bass, Treble, Contrast, Brightness, Colour, Sharpness and/or (Tint in M.NTSC/NTSC), will store these adjustments in memory as your normal settings. Pressing the N button at any time will restore the TV to these settings.
+
+1. MENU Press to open Main menu.
+
+2. To move selector to the Sound menu. To access Sound menu.
+
+3. To move to required function. To increase or decrease level using colour bar as guide or to choose from options.
+
+4. MENU To return to Main menu, or N 'N' to return to viewing screen.
+
+Setup Menu Notes 
+
+AI (Artificial Intelligence) allows the TV to automatically analyse the incoming picture and process it to give the best contrast, optimum field of depth and vivid colour tones. Noise-R (Picture Noise Reduction) automatically reduces unwanted picture interference. Aspect (Picture Format) select 16:9 if receiving a 16:9 format signal through the AV1 21 pin terminals. Select 4:3 for normal picture format. Off Timer allows you to select either 30, 60 or90 minutes time before TV switches off to Standby mode. Tuning menu allows access to the tuning menu detailed on next page.
+
+1. MENU Press to open Main menu
+
+2. To move to Setup menuTo access Setup menu
+
+3. To move to required functionTo access options or Tuning menu
+
+4. MENU To return to Main menu or N 'N' to return to viewing screen 
+
+Tuning menu Notes. 
+
+This TV will either have been programmed by your dealer ready for use or it will have automatically tuned itself to your local stations when it was installed. However, there may be circumstances when you want to either re-initialise the auto tuning or to tune in known stations manually. Both methods, Auto setup and Manual Tuning, as well as Station naming and Programme edit are accessed through the Tuning menu.
+
+1. MENU Press to open Main menu.
+
+2.  To move to Setup menu To access Setup menu  To move to Tuning menuTo access Tuning menu.
+
+3.  To select function To access the required function.
+
+4. Proceed to your choice; Manual Tuning is described on page 14. Auto Setup is described on page 15. Station Naming is described on page 16. Programme Edit is described on page 17.
+
+Manual tuning Notes 
+
+The required channels can be manually stored by either searching for the required channel using the on screen display or by keying in the channel number if known. It is important that you only use TV programme position '0' to view your VCR. If your VCR picture does not appear on programme position '0' (the VCR position), refer to page 24 for guidance.
+
+1. MENU To open Main menu.  To move to Setup menu.
+
+2.To access Setup menu  To move to Tuning menu To access Tuning menu  To move to Manual tuning menuTo access Manual tuning.
+
+3.To start search  To choose required programme position. Programme position and current channel are displayed top left of screen. STR To store position MENU To return to Tuning menu, or N To return to viewing screen 
+
+OR 4. If you know the channel number - select the programme position. Press 'C' followed by the channel number using the numeric keys (within 6 seconds). STR To store position MENU To return to Tuning menu or N To return to viewing screen.
+
+Auto Setup menu Notes 
+
+Your dealer may have programmed the TV ready for use. If this has not been done then the Auto setup menu will have run automatically the first time that you switched the TV on. Under normal circumstances there will be no need to access this menu. However, if, for example, you move to a different area then you will probably want the TV to tune itself to your new local stations. This can be done either through the Auto setup menu or through the Shipping Condition menu. Details of Shipping condition menu appear on page 19. It is possible, especially in areas where you are able to receive more than one transmitter, that you may prefer to rearrange the order of the selection of stations. This can be achieved through the Programme edit menu, as detailed on pages 17 and 18.
+
+1. MENU Press to open Main menu  To move to Setup menu To access Setup menu
+
+2.  To move to Tuning menu To access Tuning menu  To move to Auto setup menuTo start Auto setup.
+
+3. Auto setup tuning will begin, stations will be located, sorted and stored ready for use. MENU To stop Auto Setup at any time
+
+Station Naming Notes
+
+Each channel may be given an individual name so that you can remember the channels by name as well as programme number. For example you could rename 'BBC-1' to 'ONE' if you wished.
+
+1. MENU Press to open Main menu  To move to Setup menu To access Setup menu.
+
+2.  To move to Tuning menu To access Tuning menu  To move to desired programmeTo change name  To select desired characterTo move to desired character position.
+
+3.  To move Station naming menuTo access Station naming menu.
+
+4. Repeat previous two steps until renaming is completed. STR To store new name MENU To return to Tuning menu OR N To return to viewing screen.
+
+Programme Edit Notes
+
+The named programme positions can be moved to another place in the programme order or deleted from the order. New programmes can be added to the order. Programmes positions can also be locked to prevent access. Access to programme position '0' - VCR is prevented in this menu.
+
+1. MENU Press to open Main menu  To move to Setup menuTo access Setup menu.
+
+2.  To move to Tuning menuTo access Tuning menu.
+
+3.  To move Programme edit menu To access Programme edit menu.
+
+4.  To select the desired programme position. Programme position '0' is reserved for VCR operation.
+
+Programme Edit Notes 
+
+Option 5 allows station names and channels to be deleted. Option 6 allows new programmes and channels to be added. Option 7 allows programme positions to be moved. Option 8 allows programme positions to be locked.
+
+5.  To select Delete STR Press twice to delete selected station and channel N To return to normal TV operation.
+
+6. To select Add STR Press twice to insert a blank channel in the current programme position. N To return to normal TV operation. The channel can then be tuned as described under Manual tuning on Page 14.
+
+7.To select Move STR To move  To select the new programme position for the current channel STR To end move operation. N To return to normal TV operation.
+
+8.To select Lock STR To lock or unlock the current programme position. N To return to normal TV operation.
+
+Shipping Condition Notes 
+
+Your dealer may have programmed the TV ready for use. If this has not been done then the Auto setup menu runs automatically the first time that you switch the TV on. Under normal circumstances there will be no need to access this menu. However, if for example, you move to a different area then you will probably want the TV to tune itself to your new local stations. This can be done either through the Shipping Condition menu or through the Auto setup menu. The Shipping condition menu will reset all data, clearing all tuning information and resetting all control levels back to factory settings. You may need to adjust your VCR or programme position '0' VCR after operating the Shipping condition menu, refer to page 24. It is possible, especially in areas where you are able to receive more than one transmitter, that you may prefer to rearrange the order of the selection of stations. This can be achieved through the Programme edit menu, as detailed on pages 17 and 18.
+
+1. MENU Press to open Main menu  To move to Setup menu To access Setup menu.
+
+2.  To move to Tuning menu To access Tuning menu  To select Shipping condition To access Shipping condition.
+
+3. STR To start Shipping condition. Press again, to confirm, when you are asked, "Are you sure?" Wait for Tuning menu to reappear.
+
+4. To start Auto setup Auto setup tuning will begin, stations will be located, sorted and stored ready for use.
+
+AV select and setup Notes
+
+Some items of Audio/Visualequipment will automatically switch AV1 and AV2 into AV mode - the screen will display EC1 or EC2. AV2S is suitable for S-Video cassette recorders or camcorders. NTSC is the United States colour broadcast system (also used in some other countries). If you are using the AV function to replay an NTSC recording from a VCR the TV will automatically recognise the signal. Examples of AV connections are shown on pages 26 and 27.
+
+1. Press 'TV/AV' to switch to Audio/Video mode.
+
+2.  To select the desired AV source AV1, AV2 or AV3. When AV2 is selected, to choose AV2 or AV2S. The menu will clear within a few seconds Press 'TV/AV' if you wish to return to TV mode.
+
+3. You may wish to make adjustments within the Sound and Setup menus. MENU Press to open Main menu  To move to Setup or Sound menus
+
+4. By accessing the Sound menu and adjusting the Volume correction you can set a different volume level for the AV inputs Teletext operation Teletext features may vary depending on the Broadcasting Companies and are only available if the channel selected is transmitting Teletext. This TV set is capable of receiving German TOP Teletext transmissions, it will automatically switch to them if a German broadcast is being received, for example, from Satellite channels. Pressing the 'MENU' key whilst in Teletext operation will allow the Contrast setting to be adjusted.
+
+TV/Text 
+
+Press the TV/TEXT key. The screen will display the Teletext page.Press again when you wish to return to TV mode. 
+
+Page Selection The Teletext pages can beselected either by using the Up/Downkeys or by entering the page number using the 0-9 keys.LIST/FASTEXT See following pages. 
+
+Index Returns to main index page if in FASTEXT. F/T/B Expands page for easier reading.
+
+Reveal Reveals hidden words and clues for quiz pages. Display Cancel See following pages.
+
+Favourite Page Stores a favourite page in memory for instant recall. Hold Press to hold the current page. Text Time See following pages. Red/Green/Yellow/Blue Keys See following pages.
+
+FASTEXT and LIST In FASTEXT mode the four differently coloured buttons Red/Green/Yellow/Blue are situated at the bottom of the display showing different subjects. In LIST mode the four differently coloured buttons Red/Green/Yellow/Blue are situated at the bottom of the display showing different page numbers. Each of these page numbers can be altered and stored. List Store In LIST mode the four page numbers can be altered (for channel positions 1-25 only). To do this, press one of the coloured keys and enter the new page number. Press and hold STR, the page numbers will change colour.
+
+List/F.text Press to change from FASTEXT mode to LIST mode and vice versa.
+
+Index When in FASTEXT operation. Press INDEX to return to the main index page. Depending on the way information is transmitted, this may have to be pressed more than once to return to the main index page.
+
+Full/Top/Bottom Press to expand the TOP half of the page. Press again to expand the BOTTOM half. Press again to return to normal (FULL) size.
+
+Hold To hold the Teletext page when viewing multipage information. Press again to return to automatic page update. Display Cancel News Flash When a news flash page has been selected, press DISPLAY CANCEL to view the TV picture, when an update is received, it will be displayed on screen. Press DISPLAY CANCEL  to remove updated news. Press TV/TEXT to return to normal TV. Press DISPLAY CANCEL to view the TV picture whilst searching for a teletext page. When found, the screen will display the page number at the top left. Press DISPLAY CANCEL to view the page. Press TV/TEXT to return to normal TV. Update Press DISPLAY CANCEL to see the update of information on certain pages. When an update is received, the page number will be displayed at the top left of the screen. Press DISPLAY CANCEL to view the page. Press TV/TEXT to return to normal TV. Favourite Page (F.P.) Stores a favourite page in memory for instant recall. To stall such a page, the TV must be in LIST mode, and the programme position must be from 1-25. Press the BLUE  key, select the page number, then press STR. The page number is now stored. Press F.P. to recall this page. Note: depending on the transmission sequence, when the F.P. key is pressed, the contents of the favourite page may take some time to appear. Only the page number is stored, not its contents.
+
+Sub Coded Page Access 
+
+When teletext information exceeds more than one page, it may take some time for the automatic changing of the sub pages to reach the sub page you require. It is possible to enter your required sub page and continue watching the normal programme until the correct sub page is found.
+
+Select the required page number using keys 0-9. Press TIMETEXT, xxxx will be displayed (top right of the screen). Enter desired sub page number before the xxxx disappears. To select page 6 enter 0,0,0 and 6. If in LIST mode, a 'T' will appear in the current box at the bottom. Press DISPLAY CANCEL to view a normal TV programme. When the page is available, press DISPLAY CANCEL to view the page. To clear the page perform one of the following: Select a new page number. Press TV/TEXT to return to normal TV operation.
+
+VCR and Satellite receiver installation 
+
+Your new TV is supplied with programme position '0' set to receive an RF signal from a VCR. However, if for some reason the VCR is tuned to a different RF channel then you will not receive any picture or sound from the VCR on programme position '0' of the TV. It will be necessary to either adjust the RF channel of the VCR or adjust the tuning of the TV's programme position '0' or both until the RF output  channel of the VCR is received. It is intended that this advise is used in conjunction with the instruction books for your ancillary equipment.
+
+To connect a VHS VCR use the AV1 socket. 
+
+To connect an S-Video VCR use the AV2 socket. If you are going to use a Satellite Receiver and a VCR it is important, to avoid tuning problems, that they are both tuned to output their signals on differing channels. For example,if your VCR is tuned to output channel 32, your Satellite Receiver could be set to output channel 34. Refer to your instruction books for precise tuning information.
+
+VCR Control 
+
+The Remote Control is capable of operating some functions of selected Panasonic VCRs, please consult your dealer for details. Some VCRs have different functions, so to ensure compatibility, please refer to the VCR's instruction booklet.
+
+Standby Press to switch the VCR to standby mode. Press again to switch backon. Play Press to playback tape. Stop Press to stop the tape. Fast Forward/Cue Press to fast forward the tape. In Play mode, press to view the picture rapidly forward. Rewind/Review Press to rewind the tape. In play mode, press to view the picture in reverse rapidly. Pause/Still Press in playback mode, the picture will pause. Still Advance While in PAUSE/STILL mode, press to advance the picture one frame at a time. Programme Up/Down Press to increase or decrease the VCR programme positionby one.
+
+Record
+
+Press these together to record.
+
+Operating Switch 
+
+If any difficulty is encountered when using this remote control with Panasonic Video Recorders please check the operation of the video recorder with the operating switch set at position one and again with the switch set at position two.
+
+Audio/Video (AV) connections Front AV3 RCA Audio/Video and Headphone Sockets
+
+Note: Ancillary equipment and cables shown are not supplied with this TV set.
+
+Rear AV1/AV2 (S) 21 Pin SCART and RCA Audio Out Terminals Note. Ancillary equipment and cables shown are not supplied with this TV set. Do not connect a computer with TTL output (5V) to this set. Additional information can be found under AV Select.
+
+Troubleshooting
+
+Snowy Picture, Noisy Sound. Aerial location, direction or connection.
+
+Multiple images, Normal sound. Aerial location, direction or connection.
+
+Interference, Noisy Sound. Electrical appliances, Cars/Motorcycles,Florescent lights, Switch on Noise-R in Setup menu to reduce picture noise, Switch NICAM to Mono to improve sound.
+
+Normal picture, No sound. Volume level. Sound mute switched on.
+
+No picture, No Sound. TV set to AV mode. Not plugged into A.C. outlet. Not switched on. Picture/Sound controls set at minimum levels. Check if in standby mode.
+
+No colour, Normal Sound. Colour controls set at minimum levels.
+
+Poor or Distorted Picture, Weak or No Sound. Retune Channel(s).
+
+Coloured patches, Normal Sound. Magnetic Interference from unshielded equipment. Receiver moved while switched ON, switch TV off for 30 minutes.
+
+For your guidance Service Before requesting service, please refer to the trouble-shooting guide on previous page to determine the symptoms. To obtain service please contact your local Panasonic dealer quoting the model number and serial number (both are located at the rear of the TV).
+
+TV Games/Home Computers 
+
+Extended use of TV games or home computers with any television set can cause a permanent 'shadow' on the screen. This type of irreversible picture tube damage, can be limited observing the following points.
+
+Reduce the brightness and contrast levels to a minimum viewing level.
+
+Do not operate the television set for a continuous period of time while using TV games or home computers. This type of picture tube damage, is not an operating defect, and as such is not covered by the Panasonic warranty.
+
+Last Position Memory Certain functions have a last position memory, i.e. the setting at the time of switch-off will be the setting used when the receiver is switched on again:-Programme  Tint (M.NTSC/NTSC only)
+
+AV position  Contrast
+
+Volume  Sharpness
+
+NICAM On/Off Aspect
+
+Bass   Standby
+
+Treble   Artificial Intelligence (AI)
+
+Colour   Brightness
+
+Status   Balance
+
+Music/speech mode Ambience
+
+Volume correction (in AV mode only)
+
+Sleep Feature. 
+
+If the set is not switched off when the TV station stops transmitting, it will automatically go to standby mode after 30 minutes. This function will not operate when the TV is in AV mode.

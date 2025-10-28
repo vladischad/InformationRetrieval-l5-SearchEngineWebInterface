@@ -1,0 +1,275 @@
+Hinari Colour Television with remote
+
+Installation
+
+Please read and retain foryour safety
+
+This unit has been manufactured to assure your personal safety, but improper use can result in potential electrical shock or fire hazards. In order not to defeat the safeguards incorporated in this receiver observe the following basic rules for its installation, use and servicing.
+
+DO NOT allow anything to rest on the power cord.
+
+DO NOT locate this television receiver where the cord could be damaged by people walking on it.
+
+DO NOT overload wall outlets and extension cords as this can result in fire or electric shock.
+
+Slots and openings in the cabinet and in the back or bottom are provided for ventilation to ensure reliable operation and to protect it from overheating. These openings MUST NOT be blocked or covered. The opening should NEVER be covered with a cloth or other material, and the bottom openings should not be blocked by placing the television receiver on a bed, sofa, rug, or other similar surface.
+
+This television receiver should NEVER be placed near or over a radiator or heater. This television receiver should NOT be placed in a built-in installation such as a bookcase unless proper ventilation is provided.
+
+DO NOT place your television receiver on an unstable stand, shelf or table. Serious injury to an individual, and damage to the television may result if it should fall. Your dealer can recommend approved stands, shelves and wall mounting instructions.
+
+Use of your equipment
+
+This television receiver should be operated only from the type of power source indicated on the television or as indicated in the operating instructions. If you are not sure of the type of power supply in your home, consult your sales person or your local power company.
+
+NEVER add accessories that have not been specifically designed for this television.
+
+DO NOT drop or push objects into the television cabinet slots or openings. Some internal parts carry hazardous voltage and contact may result in an electrical shock.
+
+NEVER spill liquids of any kind on the television receiver.
+
+DO NOT expose the television receiver to rain or use near water. For example, near a bathtub, kitchen sink, in a wet basement, etc. Before cleaning, unplug the television receiver from the wall socket.
+
+DO NOT apply liquid cleaners or aerosol cleaners directly onto the television receiver. Use a damp cloth for cleaning.
+
+Connections
+
+Power connections
+
+The TV set is manufactured for household mains voltage AC 230 to 240V 50Hz. Connect the power cord of the TV set to a suitable household mains wall socket. If the TV set is not to be used for an extended period of time, it is advisable to disconnect the power cord from the power outlet.
+
+Warning!
+
+High voltage are used in the operation of this TV set. Do not remove the back of the unit and always refer service to qualified service personnel.
+
+Important This equipment is fitted with an BS1363 approved non-rewireable UK mains plug. To change a fuse in this plug, proceed as follows 1. Carefully remove the fuse cover and fuse.
+
+2. Fix a new fuse which should be a BS1362 3 Amp A.S.T.A. or of a BSI approved type.
+
+3. Carefully refit the fuse cover.
+
+Notes for service engineers
+
+The plug fitted to this unit contains special filters in order to comply with EMC regulations. If the plug becomes damaged, it must be replaced with the correct plug and filters. Failure to observe the regulations may render the owner of the product liable to prosecution under the Wireless and Telegraphy Act by causing interference to other electrical appliances.
+
+Removal of plug invalidates EMC certification
+
+The wires in this mains lead are coloured in accordance with the following code: BLUE="NEUTRAL," BROWN="LIVE"
+
+1. The Blue wire must be connected to the terminal which is marked with the letter 'N' or coloured BLACK.
+
+2. The Brown wire must be connected to the terminal which is marked with the letter 'L' or coloured RED.
+
+3. Do not connect either wire to the earth terminal in the plug which is marked with the letter 'E' or by the earth symbol or coloured GREEN or GREEN and YELLOW.
+
+Before replacing the plug cover, make certain that the cord grip is clamped over the outer sleeve of the lead - not simply over the wires.
+
+Please note: The plug and lead of this unit is NOT replaceable by the user as special filters are required.
+
+Connecting the TV to the aerial
+
+The aerial socket is located on the back of the TV set. If your present aerial produces clear reception of black/white or colour pictures, then no alterations to the existing aerial should be necessary. A colour picture of good quality requires a higher aerial signal than a black/white picture. If you tune your set to a station with a weak colour signal, the TV set automatically changes to a black/white picture. For all aerial problems please consult your local dealer. To receive special channels, connect a CATV cable to the aerial socket. For the best quality signal, the use of a well shielded antenna cable is recommended.
+
+Sometimes in strong areas, the signal you receive is too strong for your TV. In this case you may need to buy an in-line 6dB attenuator. This fits simply into the RF socket and then your RF lead plugs into the attenuator.
+
+Remote control batteries
+
+1. Remove the battery cover by sliding in the direction of the arrow.
+
+2. Install two 'AA' 1.5 volt batteries so that the '+' and the '-' marks on the batteries match the polarity '+' and '-' marks inside the unit.
+
+3. Close the battery cover.
+
+Note: Replace the batteries when the TV set is showing any of the following symptoms: Operation is unsteady or erratic, sometimes the TV does not work with the transmitter.
+
+The normal life of batteries should be from nine to ten months.
+
+Discharged batteries may leak and damage the unit.
+
+Mains ON/OFF
+
+1. To turn the TV set ON, press the Mains ON/OFF switch. The power indicator illuminates to show the power is on. To turn the TV set off press it again. If no picture appears but the Power indicator is lit, the TV set is in Stand-by mode.
+
+Switching on from the stand-by mode from the remote
+
+2. To turn the TV set ON from the Stand-by mode, press any of the following buttons: Power/Standby button, Programme Selector, 0 to 9 Numeric buttons.
+
+Switching off into the stand-by mode
+
+3. To turn the TV set OFF into the Stand-by mode, press the Power/Stand-by button. The Stand-by/Power indicator will illuminate.
+
+In the Stand-by mode the TV set is still partially powered, this is denoted by the red Standby/Power indicator illuminating.
+
+The mains ON/OFF switch must be in the ON position before using the remote control transmitter.
+
+Note: It is not possible to turn on the T.V. with the Mains ON/OFF switch from the stand-by mode.
+
+Be sure to set the Mains ON/OFF switch to the OFF position, if a power failure occurs while viewing.
+
+This TV set will automatically switch into the stand-by mode, 10 minutes after a signal is no longer received. The time until the set will switch off is displayed on the screen.
+
+If the aerial is removed the TV set will automatically shut off.
+
+Programme selection
+
+Direct Programme Selection For selection of programme position 1 to 9, press the corresponding numeric button (1-9). If the required programme is equal or more than 10, for example 23, press the first Digit button, 2 then press 3 within two-three seconds.
+
+Up/down programme selection Press the P+ button to increase the programme position. Press the P- button to decrease the programme position.
+
+Menu settings
+
+Volume control
+
+1. To adjust the sound volume, press the Volume Level (+/-) buttons.
+
+Picture controls
+
+2. Select from the following functions: Brightness, Contrast, Colour CCCCCTimer tuning by pressing the MENU button.
+
+3. Each time the MENU button is pressed, the function display changes as illustrated.
+
+Bright: To adjust the picture brightness.
+
+Contrast: To adjust the picture contrast.
+
+Colour: To adjust the picture colour.
+
+Timer: To set the timer function.
+
+4. To adjust the level of the selected function, press the P+ or P- buttons.
+
+Note: Normally fine tuning is not required for this TV. However, in some cases (such as radio interference) the picture may become clearer by de-tuning from the best tuned frequency. In such a case, you can use this fine tuning to eliminate interference patterns.
+
+Timer function You can select a time period from which the set will switch into stand-by mode. Press the menu button four times to select the TIMER function. Press either the P+ or P- buttons. The TIMER ON symbol will be displayed with the time in minutes until the auto switch off will be activated. Press P+ to increase the time up to 90 minutes or P- to decrease the time down to 1 minute. Press the TV button to set the timer and remove the menu from the screen. The T.V. will revert to normal viewing and when the set time elapsed has passed, the T.V. will enter the stand-by mode.
+
+Auto presetting (Tuning)
+
+Your TV can store up to 99 preset channels. In order to tune and store these channels, please follow the simple instructions that follow, starting from CHANNEL 1
+
+1. Press the tune button on the remote control. A tuning bar will appear on the screen.
+
+2. Press the P+ button for approximately 1-2 seconds to start automatic scanning. The set will scan up the bar until a channel is found. The 'S' will then flash on and off to tell you a channel has been located. If you do not wish to store that channel, simply press P+ again to resume scanning.
+
+3. If you wish to store the channel, press STORE and the setting P01 will flash.
+
+4. Decide which channel number you wish to give the channel found, e.g.: BBC1="1," BBC2="2," ITV="3," CH4="4" and CH5="5" and press the corresponding number.
+
+5. Press STORE to confirm your choice. The screen will return to the tuning bar and the 'S' will be flashing on the screen.
+
+6. Continue from steps 2-5 to tune all the required channels.
+
+7. Press the TV button after all channels have been stored.
+
+Note: To cancel searching midway, press the T.V. button.
+
+Fine Tuning
+
+After tuning in all the channels required, your picture should be clear, subject to aerial quality and reception. However, you may feel some fine tuning is required to enhance the quality, this can be done as follows.
+
+1. Press TUNE on the remote control to reveal the tuning bar.
+
+2. Press the HOLD button briefly and an X will appear next to the program number.
+
+3. Press the P+ or P- button to fine tune the channel as required.
+
+Note: When the channel is lost the X will disappear. If you make a mistake at any time, simply press the TV button to cancel all the changes and revert to normal viewing. Start again from step 1.
+
+Using AV equipment
+
+TV/AV Selection You can select AV equipment by pressing the 0/AV button. This is only available when the TV is connected to the TV equipment using a SCART-SCART or other type of CONNECTOR-SCART lead, similar to that shown below. This T.V. will allow your scart connection to be connected to a VCR, DECODER or COMPUTER GAME CONSOLE. You must however select which is connected in order to achieve the correct picture format.
+
+1. Connect the device you wish to use.
+
+2. Turn ON your Auxiliary device and the TV.
+
+3. Press 0/AV on your remote control.
+
+4. Press the TUNE button to select the type of equipment connected. The tape symbol represents connection to a VCR. The DEC symbol represents connection to a DECODER. The AUX symbol represents connection to a GAMES CONSOLE.
+
+5. By pressing the TUNE button, each symbol can be selected in turn. Your selection will be highlighted in YELLOW on the T.V. screen.
+
+Mute
+
+By pressing the MUTE button on the remote control, it is possible to silence the sound output from the television. To restore the sound, simply press the MUTE button again or press the VOL+/VOL- buttons.
+
+Switching to the teletext mode
+
+Press the TEXT/MIX button once to select Text only, press again to select Text over the TV picture and press TV to return to the TV mode.
+
+Page selection
+
+Enter a page number directly using Numeric buttons. e.g. To select page 301, press 3 then 0 and then 1. It will take a while to search for the page, once it is found it will be displayed on the screen.
+
+Hold
+
+Press the hold button to stop sub pages changing. Some teletext pages are made up of several sub pages. These sub pages are automatically changes. Sub page is shown as P2/4 (sub page 2 of 4 pages) the location on the text page depends on the text service. Press hold again to resume normal text.
+
+Double Letter Height (EXP)
+
+Either the top half or the bottom half of the page can be expanded to fill the whole screen by pressing the EXP button. Press once, the top half of the screen is expanded to double size to fill the screen. Press twice to view the enlarged bottom half of the page. Press three times to revert to normal size.
+
+Viewing TV while searching for a page
+
+Sometimes the page access can take some time.
+
+While waiting you can view the TV picture by pressing the TEXT/MIX button. Enter the new page number. Press the TEXT/MIX button. (The TV picture will appear behind the TEXT.) Press the TEXT/MIX button to view the teletext page. Press the TV button to resume normal TV viewing.
+
+News Flash
+
+Select a news flash teletext page.
+
+1. Immediately any news comes in, the word e.g. "News Flash" and the news will appear over the normal TV picture.
+
+2. If you want to make the news disappear, press the TV button.
+
+Specification
+
+Your television and does not contain any user serviceable components. Removal of the cabinet cover may expose you to dangerous voltage. Please refer all servicing to qualified service personnel. Always unplug the television unit from the power supply and refer all servicing to qualified service personnel under the following conditions: If the power cord or plug becomes damaged. If liquid, i.e.: Coffee, tea, water, etc. has been spilt into the television receiver. If television has been exposed to rain or water. If the television has been dropped or the cabinet has been damaged. If the television receiver exhibits a distinct change in performance.
+
+Note: If the television receiver does not operate normally by following the operating instructions. Adjust only those controls that are covered in the operating instructions as incorrect adjustment of other controls may result in damage. This could require extensive work by a qualified technician to restore the television receiver to normal operation.
+
+If replacement parts are required, ensure that the service technician verify that the replacements he uses have the same safety characteristics as the original parts. Use of manufacturers specified replacements can prevent fire, shock or other hazards.
+
+Trouble shooting guide
+
+Sometimes your television may not operate properly or as you expect. Before you call a service engineer, check against the following guide.
+
+No power
+
+Check fuse in mains plug.
+
+No picture, no sound
+
+Check if TV is plugged in. Try a different channel, if OK, probably station trouble. Television in Stand-by Mode.
+
+Poor picture, sound OK
+
+Adjust BRIGHTNESS control. Adjust COLOUR control. Adjust CONTROL control. Adjust FINE TUNING control. Check AERIAL connections.
+
+No colour, picture OK
+
+Adjust COLOUR control. Adjust FINE TUNING control. Check AERIAL connections. Is the programme in colour?
+
+Weak picture
+
+Check AERIAL connections on back of set. Check AERIAL for broken wires. Reposition AERIAL. Poor reception area, re-tune to a stronger signal.
+
+TV does not respond to remote
+
+Weak batteries in remote, replace with new ones. Signal from remote to television obstructed. Remote Control out of Range.
+
+The following faults are not caused by the television
+
+"Ghosting"
+
+Reflections of signals from mountains or high buildings will cause multiple images, called "Ghosts". These abnormal conditions can be reduced to a minimum by repositioning the aerial or by installing a new one suited to your area.
+
+"Interference"
+
+Interference may be caused by electrical appliances, car ignition systems, etc. This should normally be a temporary condition, but should this interference persist, contact your dealer.
+
+Real channel numbers
+
+Only the main transmitters are listed. The are numerous sub-stations and relays, full lists are obtainable from the Broadcasting Authorities.
+
+Please note: Channel 5 is estimated to be on-line from January 1, 1997. The tuning position shown on the above chart is as a reference guide only and may be subject to change before transmissions begin.
